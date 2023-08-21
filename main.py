@@ -1,11 +1,6 @@
 import requests
 from twilio.rest import Client
 
-# twilio_pw = "felixan123$jovrkpqwt"
-# api_key = "a7396f43aa4b7695611a12da30dc4e16"
-# account_sid = 'AC1bbc76e28f5f1234b938d44b8d17c869'
-# auth_token = 'fb118b82126c66bb2ab4392ddc8815ee'
-
 #-----twilio-------#
 account_sid = "AC7c357bb2c70d78979800071781270f39"
 auth_token = "0549b71f9a1e07f77368c2e0bac53485"
