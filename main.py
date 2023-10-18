@@ -2,11 +2,11 @@ import requests
 from twilio.rest import Client
 
 #-----twilio-------#
-account_sid = "AC7c357bb2c70d78979800071781270f39"
-auth_token = "0549b71f9a1e07f77368c2e0bac53485"
+account_sid = "-"
+auth_token = "-"
 
 OWM_Endpoint = 'https://api.openweathermap.org/data/2.5/onecall'
-api_key = "69f04e4613056b159c2761a9d9e664d2"
+api_key = "-"
 
 parameters = {
     'lat': -6.974028,
